@@ -21,7 +21,7 @@ Java 8 in Action | ？ | |
 
 `Java`作为语言，对应源码太广泛了，入选指标是 **经典**的实现/框架。
 
-书名  | 类型 | 熟悉  | 备注
+实现  | 类型 | 熟悉  | 备注
 ---- | ---- | ---- | ----
 [`JUnit`](http://junit.org/) | 小巧/常用/框架 | 读完 |
 [`Spring`](https://spring.io/) | 常用/框架 | |
@@ -38,9 +38,11 @@ Java 8 in Action | ？ | |
 [`dubbo`](https://github.com/alibaba/dubbo) | 核心开发 |
 [`java-dns-cache-manipulator`](https://github.com/alibaba/java-dns-cache-manipulator) | 项目Owner |
 [`cooma`](https://github.com/alibaba/cooma) | 项目Owner |
+[`classloader-playground`](https://github.com/oldratlee/classloader-playground) | 项目Owner |
 
 相关资料
 ------------------
 
 - [Java version history - wikipedia](http://en.wikipedia.org/wiki/Java_version_history)  
     `Java`的各版本时间和变化简介
+- [A curated list of awesome Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)
