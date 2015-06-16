@@ -7,9 +7,9 @@
 书名  | 类型 | 进度  | 备注
 ---- | ---- | ---- | ----
 [Java编程思想（第4版）](http://book.douban.com/subject/2130190/) | 入门/广度 | 熟读 |【1】
-JAVA核心技术 卷1/卷2 | 入门/广度 | 熟读 |【2】
+JAVA核心技术 [卷1](http://book.douban.com/subject/25762168/) / [卷2](http://book.douban.com/subject/25841326/) | 入门/广度 | 熟读 |【2】
 [JAVA并发编程实践](http://book.douban.com/subject/2148132/) | 根本/深度/实战 | 熟读 |
-Java 8 in Action | ？ | |
+Java 8 in Action | 广度/更新 | |
 
 【1】 ***Java编程思想*** 讲了很多通用编程实践方面的内容，刚学`Java`时看得是这本，对我的整体面向对象思想的影响也很大。
 如果已经有较多的编程的经验（不限`Java`语言），会觉得内容有些罗嗦。
