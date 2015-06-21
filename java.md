@@ -9,12 +9,19 @@
 [Java编程思想（第4版）](http://book.douban.com/subject/2130190/) | 入门/广度 | 熟读 |【1】
 JAVA核心技术 [卷1](http://book.douban.com/subject/25762168/) / [卷2](http://book.douban.com/subject/25841326/) | 入门/广度 | 熟读 |【2】
 [JAVA并发编程实践](http://book.douban.com/subject/2148132/) | 根本/深度/实战 | 熟读 |
-Java 8 in Action | 广度/更新 | |
+[The Well-Grounded Java Developer](http://book.douban.com/subject/6849690/) | 广度/更新 | 读完 | JVM多语言编程/Java 7更新
+[Java 8 in Action](http://book.douban.com/subject/25912747/) | 广度/更新 | |
+[深入Java虚拟机(原书第2版)](http://book.douban.com/subject/1138768/) | 根本/深度 | 熟读 |
+[测试驱动开发](http://book.douban.com/subject/1230036/) | 根本/实战 | 熟读 |测试驱动或说单元测试（开发者写的测试）是现代式软件开发技能的标配。
 
 【1】 ***Java编程思想*** 讲了很多通用编程实践方面的内容，刚学`Java`时看得是这本，对我的整体面向对象思想的影响也很大。
 如果已经有较多的编程的经验（不限`Java`语言），会觉得内容有些罗嗦。
 
 【2】 ***JAVA核心技术*** 我读的是06年版的，讲`Java 5`。需要补充一下`Java 7/8`，方便自己体系的使用新增的内容。
+
+### 更多阅读
+
+整理的[`Java`书籍豆列](http://www.douban.com/doulist/1779295/)。
 
 读源码
 ------------------
