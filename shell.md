@@ -14,6 +14,11 @@
 ---- | ---- | ---- | ----
 [学习bash](http://book.douban.com/subject/1241361/) | 入门/体系/广度 | 熟读 |
 [Bash Reference Manual](http://www.gnu.org/software/bash/manual/) | 深度/体系 | 读过 |
+[sed与awk](http://book.douban.com/subject/1236944/) | 深度/体系 | 读过 | 经典且极具代表性的工具
+
+### 更多阅读
+
+整理的[`Shell/Bash`书籍豆列](http://www.douban.com/doulist/1779379/)。
 
 读源码
 ------------------
