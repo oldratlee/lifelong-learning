@@ -1,16 +1,22 @@
 :thought_balloon: 我的知识结构 :thought_balloon:
 =======================
 
-这个世界有太多值得学习、实践、钻研的，我们也在不停地行进中。然而感知的内容越多，却往往越不知所措。
-
 这里是自己学习内容分门别类的记录。
 
 『自己的知识结构』 既可以作为 『自己』本身的一个代表，了解了『自己』后也给出将来应该投资什么的指引。
 
 廖以慰籍自己的 ***不知所措***。 :joy:
 
-:straight_ruler: 整理规则
-------------------
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [:straight_ruler: 整理规则](#straight_ruler-%E6%95%B4%E7%90%86%E8%A7%84%E5%88%99)
+- [整理分类](#%E6%95%B4%E7%90%86%E5%88%86%E7%B1%BB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# :straight_ruler: 整理规则
 
 分成三项来表示自己的知识情况：
 
@@ -21,6 +27,6 @@
 1. 实际项目。
     实战内容及其中获得关键能力提升。
 
-整理分类如下：
+# 整理分类
 
 - [计算机科学与技术（`Computer Science`）](cs/README.md)

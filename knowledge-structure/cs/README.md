@@ -6,8 +6,24 @@
 
 计算机毫无疑问已经成了我生活很重的一部分，无论是是思维上还是经济上。为之付出，也因之快乐忧伤。
 
-编程语言
-------------------------
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [编程语言](#%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
+    - [1. `Java`](#1-java)
+    - [2. `Python`](#2-python)
+    - [3. `Go`](#3-go)
+    - [4. `Shell`](#4-shell)
+    - [5. `C`/`C++`](#5-cc)
+    - [6. `JavaScript`](#6-javascript)
+- [计算机基础](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80)
+    - [1. 基础理论](#1-%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA)
+- [:books: 相关资料](#books-%E7%9B%B8%E5%85%B3%E8%B5%84%E6%96%99)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+# 编程语言
 
 编程语言不仅是语法，背后与之息息相关的是一个圈子，一个适用的场景，甚至一个架构。
 
@@ -15,7 +31,7 @@
 
 以下是 个人 在结合解决的问题域上 选取的编程语言。
 
-### 1. [`Java`](java.md)
+## 1. [`Java`](java.md)
 
 可以说是使用最广泛的通用编程语言。`TIOBE`编程语言排行榜多年在第一。
 
@@ -35,19 +51,7 @@
 - 中间件。如消息队列、大数据（`Spark`、`Hadoop`）
 - 移动开发（`Android`）
 
-### 2. [`JavaScript`](js.md)
-
-无处不在`Web`的标配语言。编程员最多的语言，重要性越来越高，使用场景也越来越方（`NodeJS`进入服务端）。
-
-优点：
-
-- `Web`开发。
-
-场景：
-
-- `Web`开发。
-
-### 3. [`Python`](python.md)
+## 2. [`Python`](python.md)
 
 优点：
 
@@ -58,16 +62,19 @@
 场景：
 
 - 脚本自动化
-- 快速开发
+- 机器学习/数据分析方向Python也成为了强项/方便的环境
+- 快速/原型开发
 
-### 4. `C`/`C++`
+## 3. `Go`
+
+2016年以来，`Go`已经变成足够有热度，成为适用`C++`/`C`不少场景的替代语言。
 
 优点：
 
-- 可用于系统级编程。
-- 可以极致性能。
+- 可用于系统级编程
+- 比`C`/`C++`更
 
-### 5. [`Shell`](shell.md)
+## 4. [`Shell`](shell.md)
 
 程序员标配掌握。一个`Lazy`的程序员自然而然就会用`Shell`编程来做自动化工作。
 
@@ -82,15 +89,29 @@
 - 系统自动化
 - 应用的命令封装
 
-基础
-------------------------
+## 5. `C`/`C++`
 
-### 1. [基础理论](element.md)
+优点：
 
+- 可用于系统级编程。
+- 可以极致性能。
 
+## 6. [`JavaScript`](js.md)
 
+无处不在`Web`的标配语言。编程员最多的语言，重要性越来越高，使用场景也越来越方（`NodeJS`进入服务端）。
 
-:books: 相关资料
---------------------------
+优点：
+
+- `Web`开发。
+
+场景：
+
+- `Web`开发。
+
+# 计算机基础
+
+## 1. [基础理论](element.md)
+
+# :books: 相关资料
 
 - [@peng_gong](http://www.weibo.com/pegong/)的[程序员必读书单 1.0](http://lucida.me/blog/developer-reading-list/)
