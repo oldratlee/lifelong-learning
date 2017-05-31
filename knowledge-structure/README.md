@@ -1,4 +1,4 @@
-:thought_balloon: 我的知识结构 :thought_balloon:
+我的知识结构
 =======================
 
 这里是自己学习内容分门别类的记录。
@@ -12,7 +12,7 @@
 
 
 - [:straight_ruler: 整理规则](#straight_ruler-%E6%95%B4%E7%90%86%E8%A7%84%E5%88%99)
-- [整理分类](#%E6%95%B4%E7%90%86%E5%88%86%E7%B1%BB)
+- [:open_file_folder: 整理分类](#open_file_folder-%E6%95%B4%E7%90%86%E5%88%86%E7%B1%BB)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,13 +20,18 @@
 
 分成三项来表示自己的知识情况：
 
-1. 书籍阅读。  
-    学习以建立系统化。
-1. 作品研磨。对于程序员即是指读经典代码。  
-    模仿以获得实战能力。
-1. 实际项目。
-    实战内容及其中获得关键能力提升。
+1. 书籍阅读。
+    - 学习以建立系统化。
+1. 作品/案例研磨。
+    - 模仿以获得实战能力。
+    - 对于程序员即是指读经典代码。
+1. 实际项目操练。
+    - 实战内容及其中获得关键能力提升。
 
-# 整理分类
+# :open_file_folder: 整理分类
 
 - [计算机科学与技术（`Computer Science`）](cs/README.md)
+- [产品（`Product`）/服务（`Service`）](pd/README.md)
+- [营销（`Marketing`）/运营/品牌/市场/用户/消费者（`消费者`）](marketing/README.md)
+- [经济（`Economics`）/金融（`Finance`）](economics/README.md)
+- [投资（`Investment`）/理财](investment/README.md)
