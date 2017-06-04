@@ -66,7 +66,7 @@ PS：
 
 - [Scalability Rules: Principles for Scaling Web Sites (2nd Edition)](https://www.amazon.com/dp/013443160X)，2016-09
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.amazon.com/dp/1491943394)，2016-08
-- 更多[Amazon scalability books](https://www.amazon.com/s?rh=n:283155,n:5&keywords=scalability)
+- `Amazon`上的[`scalability`主题书籍列表](https://www.amazon.com/s?rh=n:283155,n:5&keywords=scalability)
 
 ## 2017-05
 
@@ -107,7 +107,18 @@ PS：
     - [ ] [用户网络行为画像](http://item.jd.com/11891050.html)，2016-03
     - [ ] [增长黑客：创业公司的用户与收入增长秘籍](https://book.douban.com/subject/26541801/)，2015-07  
         目前自己团队在做数据驱动。
+- `Docker`
+    - [x] [Docker in Action](https://book.douban.com/subject/26409789/)，2016-03  
 - [`1Password`](https://1password.com/)产品/服务/工具
     - [ ] [1Password for Mac 使用指南 - 少数派](https://sspai.com/post/35195)，2016-08
 - `Keynote`工具。如何更形象有效地表达出自己想法很重要，值得抽空学习一下`Mac`强大的`Keynote`。
     - [ ] [Keynote 超越PPT的苹果商业幻灯片（第2版）](http://item.jd.com/11805285.html)，2015-11
+
+PS：
+
+- 关于[Docker in Action](https://book.douban.com/subject/26409789/) （@2017/06/04）
+	- 这本书不错，把`docker`的应用分解到场景中逐步说明，更重要的是对 **_最佳实践及其原因_** 给出很多讲解。
+	- 现在`docker`的发展挺好的，在`Mac`上已经使用很顺了。
+	- 国内环境，各种工具（如`Maven-Java`/`Pypi-Python`/`Gem-Ruby`）花些时间配置好镜像或代理以加速省命是必须的！  
+		 :smile:  参见 [使用阿里云Docker镜像加速](http://warjiang.github.io/devcat/2016/11/28/%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E4%BA%91Docker%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F/)
+	- `Amazon`上的[`docker`主题书籍列表](https://www.amazon.com/s?rh=n:283155,n:5&keywords=docker)
