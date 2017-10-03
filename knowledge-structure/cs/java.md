@@ -7,7 +7,7 @@
 书名  | 类型 | 进度  | 备注
 ---- | ---- | ---- | ----
 [Java编程思想（第4版）](http://book.douban.com/subject/2130190/) | 入门/广度 | 熟读 |【1】
-JAVA核心技术 [卷1](http://book.douban.com/subject/25762168/) / [卷2](http://book.douban.com/subject/25841326/) | 入门/广度 | 熟读 |【2】
+[JAVA核心技术 卷1](http://book.douban.com/subject/25762168/) / [卷2](http://book.douban.com/subject/25841326/) | 入门/广度 | 熟读 |【2】
 [JAVA并发编程实践](http://book.douban.com/subject/2148132/) | 根本/深度/实战 | 熟读 |
 [The Well-Grounded Java Developer](http://book.douban.com/subject/6849690/) | 广度/更新 | 读完 | JVM多语言编程/Java 7更新
 [Java 8 in Action](http://book.douban.com/subject/25912747/) | 广度/更新 | |
@@ -41,9 +41,9 @@ JAVA核心技术 [卷1](http://book.douban.com/subject/25762168/) / [卷2](http:
 
 项目  | 熟悉  | 备注
 ---- | ---- | ----
-[`multi-thread-context`](https://github.com/alibaba/multi-thread-context) | 项目Owner |
-[`dubbo`](https://github.com/alibaba/dubbo) | 核心开发 |
+[`transmittable-thread-local`](https://github.com/alibaba/transmittable-thread-local) | 项目Owner |
 [`java-dns-cache-manipulator`](https://github.com/alibaba/java-dns-cache-manipulator) | 项目Owner |
+[`dubbo`](https://github.com/alibaba/dubbo) | 核心开发 |
 [`cooma`](https://github.com/alibaba/cooma) | 项目Owner |
 [`classloader-playground`](https://github.com/oldratlee/classloader-playground) | 项目Owner |
 
